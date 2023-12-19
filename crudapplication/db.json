@@ -1,0 +1,44 @@
+{
+  "userdata": [
+    {
+      "name": "Deepak Prajapati",
+      "username": "",
+      "email": "dkp041297@gmail.com",
+      "phoneno": "08368373471",
+      "address": "Rameshwar Park Loni ghaziabad uttar Pradesh 201102",
+      "id": 4
+    },
+    {
+      "name": "Deepak Prajapati",
+      "username": "ndcjva",
+      "email": "dkp041297@gmail.com",
+      "phoneno": "08368373471",
+      "address": "Rameshwar Park Loni",
+      "id": 5
+    },
+    {
+      "name": "Deepak Prajapati",
+      "username": "ajju",
+      "email": "dkp041297@gmail.com",
+      "phoneno": "08368373471",
+      "address": "Rameshwar Park Loni",
+      "id": 6
+    },
+    {
+      "name": "Arju",
+      "username": "ajju",
+      "email": "A@gmail.com",
+      "phoneno": "7895641235",
+      "address": "merrut",
+      "id": 7
+    },
+    {
+      "name": "masaiyans",
+      "username": "masai",
+      "email": "dkp041297@gmail.com",
+      "phoneno": "08368373471",
+      "address": "D 213\nRameshwar park Loni",
+      "id": 8
+    }
+  ]
+}
